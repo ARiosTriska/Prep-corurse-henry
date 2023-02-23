@@ -1,2 +1,3 @@
 # Prep-corurse-henry
-prueba del modulo 2
+Anto Ríos Triska
+Pruebade como crear un repo y clonarlo a mi pc
